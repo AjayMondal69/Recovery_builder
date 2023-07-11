@@ -7,7 +7,7 @@ export BRANCH="twrp-9.0" # the branch of manifest
 
 # about your device
 export DEVICE="lahaina" # codename used in device tree
-export DT_LINK="https://github.com/youssefnone/android_recovery_samsung_m10lte" # device tree link
+export DT_LINK="https://github.com/AjayMondal69/android_device_qualcomm_lahaina" # device tree link
 export DT_BRANCH="twrp" # device tree branch
 export VENDOR="qualcomm" # device manufacturer or vendor
 export TARGET="bootimage" # build method: recoveryimage, bootimage, vendorboot
